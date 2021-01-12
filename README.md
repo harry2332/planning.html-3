@@ -10,10 +10,6 @@ trabajo de sitios web
 <body>
 <div class="container">
 <div src=work-8.jpg/vuit.png" height="75"width="130"alt="">
-<ul class="menu">
-<li><a> href="#">Enlace 1</a></li>
-<li><a> href="#">Enlace 2</a></li>
-<li><a> href="#">Enlace 3</a></li>
 <img scrc="imatges/imatge_sliderl.jpg"height="280"width="965" alt"">
 <div class="row">
 <h1>Encabezado</h2>
